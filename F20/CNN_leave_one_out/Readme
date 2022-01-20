@@ -1,0 +1,6 @@
+This folder contains the code used for cnn leave one out cross validation. The code is very similar to the general code, just added a directory for testing data.
+
+Steps:
+1.Run load_cwt_features.py, manually set the data path for training and testing
+
+2.Run train_leave_one_out.py

@@ -1,0 +1,5 @@
+Code for SVM model using one beat feature.
+
+To speed up training, added a data_pre.py to cleanse the data first. Use the cleaned data in further training.
+1.Run data_loading.py, followed by data_pre.py to generate the dataset
+2.Run svn_model or svm_model_leave_one_out.py depends on the scheme
